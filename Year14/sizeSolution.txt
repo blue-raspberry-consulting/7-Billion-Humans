@@ -1,0 +1,10 @@
+-- 7 Billion Humans (2234) --
+-- 14: Intro to Shredding --
+
+step s
+step s
+pickup n
+giveto s
+
+
+

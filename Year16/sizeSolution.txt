@@ -1,0 +1,19 @@
+-- 7 Billion Humans (2234) --
+-- 16: Little Exterminator 2 --
+
+a:
+if s != wall and
+ s != hole:
+	step s
+	jump a
+endif
+pickup c
+b:
+if s != shredder:
+	step e
+	jump b
+endif
+giveto s
+
+
+

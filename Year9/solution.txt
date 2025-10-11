@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2234) --
+-- 9: Dynamic Angles --
+
+pickup s
+a:
+step s
+if nw != datacube:
+	jump a
+endif
+drop
+
+
+

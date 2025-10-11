@@ -1,0 +1,26 @@
+-- 7 Billion Humans (2234) --
+-- 16: Little Exterminator 2 --
+
+step s
+step s
+step s
+step s
+a:
+if se == worker:
+	step s
+	jump a
+endif
+pickup c
+step e
+step e
+step e
+step e
+b:
+if s == shredder:
+	giveto s
+endif
+step e
+jump b
+
+
+

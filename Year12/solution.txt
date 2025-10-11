@@ -1,0 +1,21 @@
+-- 7 Billion Humans (2234) --
+-- 12: Unzip --
+
+pickup c
+a:
+if e == wall or
+ ne == worker or
+ nw == worker:
+	step s
+	drop
+endif
+if w == wall or
+ sw == worker or
+ se == worker:
+	step n
+	drop
+endif
+jump a
+
+
+

@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2234) --
+-- 7: Collation Station --
+
+a:
+step s
+drop
+if s != hole:
+	pickup c
+	jump a
+endif
+
+
+

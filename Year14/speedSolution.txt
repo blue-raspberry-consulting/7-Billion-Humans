@@ -1,0 +1,12 @@
+-- 7 Billion Humans (2234) --
+-- 14: Intro to Shredding --
+
+step s
+step s
+if n == datacube:
+	pickup n
+	giveto s
+endif
+
+
+

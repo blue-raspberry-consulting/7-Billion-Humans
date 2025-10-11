@@ -2,16 +2,16 @@
 
 ## Phase 1
 
-| Year    | Name                     | Links                                                                                                                         |
-|---------|--------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Year 1  | You’re Hired!            | Cut Scene                                                                                                                     |
+| Year    | Name                     | Links                                                                                                       |
+|---------|--------------------------|-------------------------------------------------------------------------------------------------------------|
+| Year 1  | You’re Hired!            | Cut Scene                                                                                                   |
 | Year 2  | Welcome, New Employees   | <ul><li>[Solution](Year02/README.md)</li><li>[Video](https://www.youtube.com/watch?v=4mtJ3X_XIJ8)</li></ul> |
 | Year 3  | Transport Squad          | <ul><li>[Solution](Year03/README.md)</li><li>[Video](https://www.youtube.com/watch?v=4mtJ3X_XIJ8)</li></ul> |
 | Year 4  | Long Distance Delivery   | <ul><li>[Solution](Year04/README.md)</li><li>[Video](https://www.youtube.com/watch?v=4mtJ3X_XIJ8)</li></ul> |
 | Year 5  | An Important Decision    | <ul><li>[Solution](Year05/README.md)</li><li>[Video](https://www.youtube.com/watch?v=4mtJ3X_XIJ8)</li></ul> |
 | Year 6  | Little Exterminator 1    | <ul><li>[Solution](Year06/README.md)</li><li>[Video](https://www.youtube.com/watch?v=4mtJ3X_XIJ8)</li></ul> |
 | Year 7  | Collation Station        | <ul><li>[Solution](Year07/README.md)</li><li>[Video](https://www.youtube.com/watch?v=4mtJ3X_XIJ8)</li></ul> |
-| Year 8  | Intro to Morale Officers | Cut Scene                                                                                                                     |
+| Year 8  | Intro to Morale Officers | Cut Scene                                                                                                   |
 | Year 9  | Dynamic Angles           | <ul><li>[Solution](Year09/README.md)</li><li>[Video](https://www.youtube.com/watch?v=1-6M_yS5SmQ)</li></ul> |
 | Year 10 | Emergency Escapades      | <ul><li>[Solution](Year10/README.md)</li><li>[Video](https://www.youtube.com/watch?v=1-6M_yS5SmQ)</li></ul> |
 | Year 11 | Injection Sites 1        | <ul><li>[Solution](Year11/README.md)</li><li>[Video](https://www.youtube.com/watch?v=1-6M_yS5SmQ)</li></ul> |
@@ -32,11 +32,11 @@
 
 ## Phase 2
 
-| Year    | Name                      | Links                                                            |
-|---------|---------------------------|------------------------------------------------------------------|
+| Year    | Name                      | Links                                          |
+|---------|---------------------------|------------------------------------------------|
 | Year 25 | My First Shredding Memory | <ul><li>[Solution](Year25/README.md)</li></ul> |
 | Year 26 | Budget Brigade 2          | <ul><li>[Solution](Year26/README.md)</li></ul> |
-| Year 27 | Fitness Program           | Cut Scene                                                        |
+| Year 27 | Fitness Program           | Cut Scene                                      |
 | Year 28 | Neural Pathways           | <ul><li>[Solution](Year28/README.md)</li></ul> |
 | Year 29 | Biometric Access          | <ul><li>[Solution](Year29/README.md)</li></ul> |
 | Year 30 | Fill the Floor            | <ul><li>[Solution](Year30/README.md)</li></ul> |

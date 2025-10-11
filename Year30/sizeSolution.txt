@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2234) --
+-- 30: Fill the Floor --
+
+mem1 = nearest printer
+a:
+step nw,w,sw,s,ne,e,se
+if c == nothing:
+	drop
+	takefrom mem1
+endif
+jump a
+
+

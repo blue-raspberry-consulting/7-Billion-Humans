@@ -1,0 +1,17 @@
+-- 7 Billion Humans (2234) --
+-- 21: Big Data --
+
+a:
+if s != printer:
+	step s
+	jump a
+endif
+takefrom s
+b:
+if myitem < 50:
+	giveto sw
+	takefrom se
+	jump b
+endif
+
+

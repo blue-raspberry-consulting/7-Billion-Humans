@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2234) --
+-- 31: Checkerboard Organization --
+
+mem1 = nearest printer
+a:
+mem2 = nearest datacube
+takefrom mem1
+step mem2
+step nw,sw,ne,se
+drop
+jump a
+
+

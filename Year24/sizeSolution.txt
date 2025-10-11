@@ -1,0 +1,15 @@
+-- 7 Billion Humans (2234) --
+-- 24: Budget Brigade 1 --
+
+a:
+if s == printer:
+	takefrom s
+endif
+if s == shredder and
+ myitem == datacube:
+	giveto s
+endif
+giveto e
+jump a
+
+

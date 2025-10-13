@@ -36,14 +36,14 @@
 |---------|------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Year 25 | My First Shredding Memory    | <ul><li>[Solution](Year25/README.md)</li><li>[Video](https://www.youtube.com/watch?v=jCHxZWsfqWM)</li></ul> |
 | Year 27 | Fitness Program              | Cut Scene                                                                                                   |
-| Year 28 | Neural Pathways              | <ul><li>[Solution](Year28/README.md)</li></ul>                                                              |
-| Year 29 | Biometric Access             | <ul><li>[Solution](Year29/README.md)</li></ul>                                                              |
-| Year 30 | Fill the Floor               | <ul><li>[Solution](Year30/README.md)</li></ul>                                                              |
-| Year 31 | Checkerboard Organization    | <ul><li>[Solution](Year31/README.md)</li></ul>                                                              |
-| Year 32 | Creative Writing             | <ul><li>[Solution](Year32/README.md)</li></ul>                                                              |
-| Year 33 | Data Backup Day              | <ul><li>[Solution](Year33/README.md)</li></ul>                                                              |
-| Year 34 | Seek and Destroy 1           | <ul><li>[Solution](Year34/README.md)</li></ul>                                                              |
-| Year 35 | Intro to Calc for Art Majors | <ul><li>[Solution](Year35/README.md)</li></ul>                                                              |
-| Year 36 | Seek and Destroy 2           | <ul><li>[Solution](Year36/README.md)</li></ul>                                                              |
+| Year 28 | Neural Pathways              | <ul><li>[Solution](Year28/README.md)</li><li>[Video](https://www.youtube.com/watch?v=sjisK56tksw)</li></ul> |
+| Year 29 | Biometric Access             | <ul><li>[Solution](Year29/README.md)</li><li>[Video](https://www.youtube.com/watch?v=sjisK56tksw)</li></ul> |
+| Year 30 | Fill the Floor               | <ul><li>[Solution](Year30/README.md)</li><li>[Video](https://www.youtube.com/watch?v=sjisK56tksw)</li></ul> |
+| Year 31 | Checkerboard Organization    | <ul><li>[Solution](Year31/README.md)</li><li>[Video](https://www.youtube.com/watch?v=sjisK56tksw)</li></ul> |
+| Year 32 | Creative Writing             | <ul><li>[Solution](Year32/README.md)</li><li>[Video](https://www.youtube.com/watch?v=L6XojZDO62k)</li></ul> |
+| Year 33 | Data Backup Day              | <ul><li>[Solution](Year33/README.md)</li><li>[Video](https://www.youtube.com/watch?v=L6XojZDO62k)</li></ul> |
+| Year 34 | Seek and Destroy 1           | <ul><li>[Solution](Year34/README.md)</li><li>[Video](https://www.youtube.com/watch?v=L6XojZDO62k)</li></ul> |
+| Year 35 | Intro to Calc for Art Majors | <ul><li>[Solution](Year35/README.md)</li><li>[Video](https://www.youtube.com/watch?v=L6XojZDO62k)</li></ul> |
+| Year 36 | Seek and Destroy 2           | <ul><li>[Solution](Year36/README.md)</li><li>[Video](https://www.youtube.com/watch?v=L6XojZDO62k)</li></ul> |
 | Year 37 | Dangerous Spreadsheeting     | <ul><li>[Solution](Year37/README.md)</li></ul>                                                              |
 

@@ -3,11 +3,12 @@
 
 mem1 = nearest printer
 a:
-mem2 = nearest datacube
-takefrom mem1
-step mem2
+if c == nothing:
+	drop
+	takefrom mem1
+	step w,e
+endif
 step nw,sw,ne,se
-drop
 jump a
 
 

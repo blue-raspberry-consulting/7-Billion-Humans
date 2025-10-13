@@ -1,13 +1,5 @@
 # Year 31 - Checkerboard Organization
 
-## Speed Solution
+[Solution for speed & size](solution.txt)
 
-[Solution for speed](speedSolution.txt)
-
-![Solution for speed](speedSolution.JPEG "Year 31 - Speed")
-
-## Size Solution
-
-[Solution for size](sizeSolution.txt)
-
-![Solution for size](sizeSolution.JPEG "Year 31 - Size")
+![Solution for speed & size](solution.JPEG "Year 31")

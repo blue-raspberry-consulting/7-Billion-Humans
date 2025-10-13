@@ -3,24 +3,18 @@
 
 mem1 = nearest shredder
 a:
-mem2 = set 99
-b:
-c:
 step n
-if c == nothing and
- n != wall:
-	jump c
-endif
-if c == datacube and
- c <= mem2:
-	mem2 = set c
-else:
+if n != nothing:
 	if n == wall:
 		pickup mem2
 		giveto mem1
-		jump a
+	else:
+		if mem2 != datacube or
+		 n <= mem2:
+			mem2 = set n
+		endif
 	endif
 endif
-jump b
+jump a
 
 

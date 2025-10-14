@@ -1,0 +1,22 @@
+-- 7 Billion Humans (2234) --
+-- 50: Cubical Communication --
+
+mem2 = set 4
+if sw >= 3:
+	listenfor go
+endif
+if sw == 1 or
+ sw == 3:
+	mem1 = calc 0 + 0
+endif
+step e
+a:
+takefrom sw
+giveto se
+if mem2 > 0:
+	mem2 = calc mem2 - 1
+	jump a
+endif
+tell everyone go
+
+

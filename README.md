@@ -53,3 +53,9 @@
 | Year 42 | Important Email Organization | <ul><li>[Solution](Year42/README.md)</li></ul>                                                              |
 | Year 43 | Multiplication Table         | <ul><li>[Solution](Year43/README.md)</li></ul>                                                              |
 | Year 44 | Unique Fashion Party         | <ul><li>[Solution](Year44/README.md)</li></ul>                                                              |
+| Year 45 | Morning Petroleum            | Cut Scene                                                                                                   |
+| Year 46 | Compulsory Office Romance    | <ul><li>[Solution](Year46/README.md)</li></ul>                                                              |
+| Year 47 | Automated Pleasantries       | <ul><li>[Solution](Year47/README.md)</li></ul>                                                              |
+| Year 48 | Community Training Day       | <ul><li>[Solution](Year48/README.md)</li></ul>                                                              |
+| Year 49 | Double Sided Destruction     | <ul><li>[Solution](Year49/README.md)</li></ul>                                                              |
+| Year 50 | Cubical Communication        | <ul><li>[Solution](Year50/README.md)</li></ul>                                                              |

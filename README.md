@@ -46,4 +46,10 @@
 | Year 35 | Intro to Calc for Art Majors | <ul><li>[Solution](Year35/README.md)</li><li>[Video](https://www.youtube.com/watch?v=L6XojZDO62k)</li></ul> |
 | Year 36 | Seek and Destroy 2           | <ul><li>[Solution](Year36/README.md)</li><li>[Video](https://www.youtube.com/watch?v=L6XojZDO62k)</li></ul> |
 | Year 37 | Dangerous Spreadsheeting     | <ul><li>[Solution](Year37/README.md)</li></ul>                                                              |
-
+| Year 38 | Seek and Destroy 3           | <ul><li>[Solution](Year38/README.md)</li></ul>                                                              |
+| Year 39 | Printing Etiquette 1         | <ul><li>[Solution](Year39/README.md)</li></ul>                                                              |
+| Year 40 | Printing Etiquette 2         | <ul><li>[Solution](Year40/README.md)</li></ul>                                                              |
+| Year 41 | Image Decrypter              | <ul><li>[Solution](Year41/README.md)</li></ul>                                                              |
+| Year 42 | Important Email Organization | <ul><li>[Solution](Year42/README.md)</li></ul>                                                              |
+| Year 43 | Multiplication Table         | <ul><li>[Solution](Year43/README.md)</li></ul>                                                              |
+| Year 44 | Unique Fashion Party         | <ul><li>[Solution](Year44/README.md)</li></ul>                                                              |

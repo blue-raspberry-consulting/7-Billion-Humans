@@ -1,0 +1,38 @@
+-- 7 Billion Humans (2234) --
+-- 52: The Mode Code --
+
+mem1 = nearest datacube
+step nw
+a:
+if nw != nothing:
+	mem2 = calc mem2 + 1
+	step w
+	jump a
+endif
+b:
+c:
+if n == something:
+	if n == mem2:
+		mem4 = calc mem4 + 1
+	endif
+	step n
+	jump c
+endif
+step ne
+d:
+if s == something:
+	if s == mem2:
+		mem4 = calc mem4 + 1
+	endif
+	step s
+	jump d
+endif
+if e == datacube:
+	step se
+	jump b
+endif
+pickup mem1
+write mem4
+drop
+
+

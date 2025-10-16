@@ -1,0 +1,14 @@
+-- 7 Billion Humans (2234) --
+-- 51: Identify Yourselves --
+
+a:
+mem1 = calc mem1 + 1
+if w == worker:
+	jump a
+endif
+pickup s
+write mem1
+step s
+drop
+
+

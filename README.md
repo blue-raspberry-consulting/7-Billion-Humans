@@ -53,9 +53,29 @@
 | Year 42 | Important Email Organization | <ul><li>[Solution](Year42/README.md)</li></ul>                                                              |
 | Year 43 | Multiplication Table         | <ul><li>[Solution](Year43/README.md)</li></ul>                                                              |
 | Year 44 | Unique Fashion Party         | <ul><li>[Solution](Year44/README.md)</li></ul>                                                              |
-| Year 45 | Morning Petroleum            | Cut Scene                                                                                                   |
-| Year 46 | Compulsory Office Romance    | <ul><li>[Solution](Year46/README.md)</li></ul>                                                              |
-| Year 47 | Automated Pleasantries       | <ul><li>[Solution](Year47/README.md)</li></ul>                                                              |
-| Year 48 | Community Training Day       | <ul><li>[Solution](Year48/README.md)</li></ul>                                                              |
-| Year 49 | Double Sided Destruction     | <ul><li>[Solution](Year49/README.md)</li></ul>                                                              |
-| Year 50 | Cubical Communication        | <ul><li>[Solution](Year50/README.md)</li></ul>                                                              |
+
+## Phase 3
+
+| Year    | Name                      | Links                                          |
+|---------|---------------------------|------------------------------------------------|
+| Year 45 | Morning Petroleum         | Cut Scene                                      |
+| Year 46 | Compulsory Office Romance | <ul><li>[Solution](Year46/README.md)</li></ul> |
+| Year 47 | Automated Pleasantries    | <ul><li>[Solution](Year47/README.md)</li></ul> |
+| Year 48 | Community Training Day    | <ul><li>[Solution](Year48/README.md)</li></ul> |
+| Year 49 | Double Sided Destruction  | <ul><li>[Solution](Year49/README.md)</li></ul> |
+| Year 50 | Cubical Communication     | <ul><li>[Solution](Year50/README.md)</li></ul> |
+| Year 51 | Identify Yourselves       | <ul><li>[Solution](Year51/README.md)</li></ul> |
+| Year 52 | The Mode Code             | <ul><li>[Solution](Year52/README.md)</li></ul> |
+| Year 53 | 100 Cubes on the Floor    | <ul><li>[Solution](Year53/README.md)</li></ul> |
+| Year 54 | Terrain Leveler           | <ul><li>[Solution](Year54/README.md)</li></ul> |
+
+## Phase 4
+| Year    | Name                 | Links                                          |
+|---------|----------------------|------------------------------------------------|
+| Year 55 | Data Flowers         | <ul><li>[Solution](Year55/README.md)</li></ul> |
+| Year 56 | Local Maximums       | <ul><li>[Solution](Year56/README.md)</li></ul> |
+| Year 57 | Neighborly Sweeper   | <ul><li>[Solution](Year57/README.md)</li></ul> |
+| Year 58 | Good Neighbors       | <ul><li>[Solution](Year58/README.md)</li></ul> |
+| Year 59 | Glory Hole           | <ul><li>[Solution](Year59/README.md)</li></ul> |
+| Year 60 | Understaffed Sorting | <ul><li>[Solution](Year60/README.md)</li></ul> |
+| Year 61 | Lazy Pathways        | <ul><li>[Solution](Year61/README.md)</li></ul> |

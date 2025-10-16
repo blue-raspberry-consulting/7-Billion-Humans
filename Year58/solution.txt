@@ -1,0 +1,21 @@
+-- 7 Billion Humans (2234) --
+-- 58: Good Neighbors --
+
+mem2 = nearest wall
+a:
+if w != wall and
+ n != wall and
+ e != wall and
+ s != wall and
+ c == 8 and
+ myitem != datacube:
+	pickup c
+	step mem2
+endif
+step nw,w,sw,n,s,ne,e,se
+if myitem == datacube:
+	drop
+endif
+jump a
+
+

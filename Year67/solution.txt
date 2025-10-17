@@ -1,0 +1,32 @@
+-- 7 Billion Humans (2234) --
+-- 67: Decimal Doubler --
+
+step s
+if s == button:
+	a:
+	listenfor ready
+	step s
+	step n
+	jump a
+endif
+pickup c
+step s
+b:
+drop
+tell everyone ready
+mem1 = calc c x 2
+if mem1 >= 10:
+	mem1 = calc mem1 - 10
+else:
+	mem1 = calc mem1 + 0
+endif
+if e >= 5:
+	mem1 = calc mem1 + 1
+else:
+	mem1 = calc mem1 + 0
+endif
+pickup c
+write mem1
+jump b
+
+

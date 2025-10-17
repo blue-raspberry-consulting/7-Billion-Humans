@@ -1,0 +1,66 @@
+-- 7 Billion Humans (2234) --
+-- 62: The Sorting Floor --
+
+mem1 = foreachdir nw,w,n,ne,e:
+	step n
+endfor
+if w == hole or
+ e == hole:
+	a:
+	if myitem == datacube:
+		if n == nothing:
+			step n
+		endif
+		if s == nothing and
+		 se != nothing and
+		 sw != nothing:
+			step s
+		endif
+		drop
+	endif
+	if e != worker and
+	 w != worker and
+	 myitem != datacube:
+		if n == hole:
+			step s
+			step s
+		else:
+			step n
+		endif
+	endif
+	jump a
+else:
+	b:
+	c:
+	if w != worker and
+	 e != worker:
+		jump b
+	endif
+	if w > c:
+		pickup c
+		giveto w
+		pickup w
+		drop
+	endif
+	if e < c:
+		pickup c
+		giveto e
+		pickup e
+		drop
+	endif
+	if ne > w:
+		pickup w
+		giveto e
+		pickup ne
+		giveto w
+	endif
+	if n == hole:
+		step s
+		step s
+	else:
+		step n
+	endif
+	jump c
+endif
+
+

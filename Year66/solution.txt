@@ -1,0 +1,35 @@
+-- 7 Billion Humans (2234) --
+-- 66: Decimal Counter --
+
+step s
+if s == button:
+	a:
+	listenfor ready
+	step s
+	step n
+	jump a
+endif
+pickup c
+step s
+b:
+drop
+tell everyone ready
+if e == datacube:
+	mem1 = set c
+	if c == 9 or
+	 c == 0:
+		listenfor go
+	endif
+	listenfor go
+endif
+if mem1 == 9:
+	tell everyone go
+	mem1 = calc 0 + 0
+else:
+	mem1 = calc mem1 + 1
+endif
+pickup c
+write mem1
+jump b
+
+

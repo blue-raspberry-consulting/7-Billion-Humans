@@ -70,12 +70,20 @@
 | Year 54 | Terrain Leveler           | <ul><li>[Solution](Year54/README.md)</li></ul> |
 
 ## Phase 4
-| Year    | Name                 | Links                                          |
-|---------|----------------------|------------------------------------------------|
-| Year 55 | Data Flowers         | <ul><li>[Solution](Year55/README.md)</li></ul> |
-| Year 56 | Local Maximums       | <ul><li>[Solution](Year56/README.md)</li></ul> |
-| Year 57 | Neighborly Sweeper   | <ul><li>[Solution](Year57/README.md)</li></ul> |
-| Year 58 | Good Neighbors       | <ul><li>[Solution](Year58/README.md)</li></ul> |
-| Year 59 | Glory Hole           | <ul><li>[Solution](Year59/README.md)</li></ul> |
-| Year 60 | Understaffed Sorting | <ul><li>[Solution](Year60/README.md)</li></ul> |
-| Year 61 | Lazy Pathways        | <ul><li>[Solution](Year61/README.md)</li></ul> |
+| Year    | Name                     | Links                                          |
+|---------|--------------------------|------------------------------------------------|
+| Year 55 | Data Flowers             | <ul><li>[Solution](Year55/README.md)</li></ul> |
+| Year 56 | Local Maximums           | <ul><li>[Solution](Year56/README.md)</li></ul> |
+| Year 57 | Neighborly Sweeper       | <ul><li>[Solution](Year57/README.md)</li></ul> |
+| Year 58 | Good Neighbors           | <ul><li>[Solution](Year58/README.md)</li></ul> |
+| Year 59 | Glory Hole               | <ul><li>[Solution](Year59/README.md)</li></ul> |
+| Year 60 | Understaffed Sorting     | <ul><li>[Solution](Year60/README.md)</li></ul> |
+| Year 61 | Lazy Pathways            | <ul><li>[Solution](Year61/README.md)</li></ul> |
+| Year 62 | The Sorting Floor        | <ul><li>[Solution](Year62/README.md)</li></ul> |
+| Year 63 | Defrag Disordered        | <ul><li>[Solution](Year63/README.md)</li></ul> |
+| Year 64 | Binary Counter           | <ul><li>[Solution](Year64/README.md)</li></ul> |
+| Year 65 | Defrag Ordered           | <ul><li>[Solution](Year65/README.md)</li></ul> |
+| Year 66 | Decimal Counter          | <ul><li>[Solution](Year66/README.md)</li></ul> |
+| Year 67 | Decimal Doubler          | <ul><li>[Solution](Year67/README.md)</li></ul> |
+| Year 68 | Goodbye, Humans!         | <ul><li>[Solution](Year68/README.md)</li></ul> |
+| Year 69 | Mom and Dad of Invention | Cut Scene                                      |

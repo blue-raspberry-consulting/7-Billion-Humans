@@ -2,7 +2,7 @@
 
 ## Speed Solution
 
-[![7 Billion Humans - Year 21 to 24 - Speed and Size Solutions](https://img.youtube.com/vi/jCHxZWsfqWM/0.jpg)](https://www.youtube.com/watch?v=jCHxZWsfqWM&t=355s)
+[![7 Billion Humans - Year 25 to 26 - Speed and Size Solutions](https://img.youtube.com/vi/jCHxZWsfqWM/0.jpg)](https://www.youtube.com/watch?v=jCHxZWsfqWM&t=355s)
 
 [Solution for speed](speedSolution.txt)
 
@@ -10,7 +10,7 @@
 
 ## Size Solution
 
-[![7 Billion Humans - Year 21 to 24 - Speed and Size Solutions](https://img.youtube.com/vi/jCHxZWsfqWM/0.jpg)](https://www.youtube.com/watch?v=jCHxZWsfqWM)
+[![7 Billion Humans - Year 25 to 26 - Speed and Size Solutions](https://img.youtube.com/vi/jCHxZWsfqWM/0.jpg)](https://www.youtube.com/watch?v=jCHxZWsfqWM)
 
 [Solution for size](sizeSolution.txt)
 

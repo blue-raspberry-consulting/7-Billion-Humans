@@ -1,5 +1,7 @@
 # 7 Billion Humans
 
+Solutions for [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans), created by [Tomorrow Corporation](https://tomorrowcorporation.com), focusing on solutions which obtain both achievements in a single solution.
+
 ## Phase 1
 
 | Year    | Name                                         | Video                                                | Size and Speed Solution |

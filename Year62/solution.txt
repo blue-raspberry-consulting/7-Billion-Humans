@@ -11,11 +11,6 @@ if w == hole or
 		if n == nothing:
 			step n
 		endif
-		if s == nothing and
-		 se != nothing and
-		 sw != nothing:
-			step s
-		endif
 		drop
 	endif
 	if e != worker and
